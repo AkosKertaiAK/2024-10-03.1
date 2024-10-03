@@ -1,4 +1,17 @@
 #content {
     width: 600px;
-    border: 5px solid darkblue;
+    border: 5px solid rgb(1, 1, 121);
+    margin: auto;
+    padding: 30px;
+    background-color: rgb(121, 216, 248);
+    border-radius: 30px;
+}
+
+img {
+    width: 100%;
+}
+
+
+body{
+     background-color: rgb(137, 137, 161);
 }
